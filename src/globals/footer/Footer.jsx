@@ -32,7 +32,7 @@ const Footer = () => {
           <Link to="#">Privacy & Policy</Link>
           <Link to="#">Press Room</Link>
         </div>
-        <div className="copyright">© 2021 MovieBox by Adriana Eka Prayudha</div>
+        <div className="copyright">© 2021 MovieBox by Ernest Anokye</div>
       </div>
     </footer>
   );
